@@ -1,6 +1,6 @@
 # Portfolio Assignment
 
-###made a new branch to later work on the nav bar of the portfolio
+***made a new branch to later work on the nav bar of the portfolio***
 
 
 Name: Adrian Perez
