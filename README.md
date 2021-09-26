@@ -1,6 +1,8 @@
 # Portfolio Assignment
 
 ***made a new branch to later work on the nav bar of the portfolio***
+repo link https://github.com/7pereza/PortfolioAssignment
+ 
 
 
 Name: Adrian Perez
